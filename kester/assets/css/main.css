@@ -7428,7 +7428,7 @@ tr:first-child {
   margin: 10px auto !important;
   opacity: 1;
   position: relative;
-  background-image: url(../images/background/megabg.jpg);
+  background-image: url(../images/background/IMG_2832.JPG);
   -webkit-transition: all 0.4s;
   transition: all 0.4s;
   background-color: rgba(255, 12, 12, 0.8);
@@ -7459,12 +7459,12 @@ tr:first-child {
   background: none;
 }
 .banner1 .slider-pagination-area .swiper-pagination .swiper-pagination-bullet:first-child {
-  background-image: url(../images/banner/bannerbg1.jpg);
+  background-image: url(../images/banner/img1.JPG);
   background-position: center;
   background-size: cover;
 }
 .banner1 .slider-pagination-area .swiper-pagination .swiper-pagination-bullet:last-child {
-  background-image: url(../images/background/slide-3.jpg);
+  background-image: url(../images/background/IMG_2832.JPG);
   background-position: center;
   background-size: cover;
 }
@@ -7504,17 +7504,17 @@ tr:first-child {
   text-transform: uppercase;
 }
 .banner1.banner5 .bannerSlide2 .swiper-slide .banner-single-1 {
-  background: url(../images/banner/banner-bg6.jpg);
+  background: url(../images/banner/img_2.jpg);
   background-position: center;
   background-size: cover;
 }
 .banner1.banner5 .bannerSlide2 .swiper-slide .banner-single-1_2 {
-  background: url(../images/banner/banner-bg7.jpg);
+  background: url(../images/banner/img_3.jpg);
   background-position: center;
   background-size: cover;
 }
 .banner1.banner5 .bannerSlide2 .swiper-slide .banner-single-3 {
-  background: url(../images/banner/banner-bg8.jpg);
+  background: url(../images/banner/IMG_3774.JPG);
   background-position: center;
   background-size: cover;
 }
@@ -7551,7 +7551,8 @@ tr:first-child {
   margin: 10px auto !important;
   opacity: 1;
   position: relative;
-  background-image: url(../images/background/megabg.jpg);
+  background-image: url(../images/background/IMG_2832.JPG
+  );
   -webkit-transition: all 0.4s;
   transition: all 0.4s;
   background-color: rgba(255, 12, 12, 0.8);
