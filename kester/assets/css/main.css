@@ -8840,7 +8840,7 @@ tr:first-child {
 }
 
 .banner3.home-four .banner-bg {
-  background-image: url("../images/banner/bannerbg3.jpg");
+  background-image: url("../images/banner/IMG_3774.JPG");
   background-position: center;
   padding-top: 480px;
   padding-bottom: 80px;
@@ -9007,7 +9007,7 @@ tr:first-child {
 }
 
 .banner3 .banner-bg-2 {
-  background-image: url("../images/banner/banner-bg4.jpg");
+  background-image: url("../images/banner/img_2.jpg");
   background-position: center;
   padding-top: 365px;
   padding-bottom: 250px;
@@ -9515,19 +9515,19 @@ tr:first-child {
 }
 
 .banner-single-1 {
-  background-image: url("../images/banner/bannerbg1.jpg");
+  background-image: url("../images/banner/img_3.jpg");
 }
 
 .banner-single-1_2 {
-  background-image: url("../images/background/megabg.jpg");
+  background-image: url("../images/background/IMG_2832.JPG");
 }
 
 .banner-single-3 {
-  background-image: url("../images/background/slide-3.jpg");
+  background-image: url("../images/background/img_2.jpg");
 }
 
 .banner-single-2 {
-  background-image: url("../images/banner/bannerbg2.jpg");
+  background-image: url("../images/banner/img_3.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -9617,7 +9617,7 @@ tr:first-child {
 }
 
 .banner-single-4 {
-  background-image: url("../images/banner/bannerbg6.jpg");
+  background-image: url("../images/banner/IMG_4146.JPG");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -9689,7 +9689,11 @@ tr:first-child {
 }
 
 .inner-page-banner {
+<<<<<<< HEAD
   background-image: url("../images/banner/pqhead.JPG");
+=======
+  background-image: url("../images/banner/IMG_3774.JPG");
+>>>>>>> 3a30a43a6c76c4245e58be15c7f8381ca4df17ee
   background-size: cover;
   background-position: bottom;
   padding-top: 260px;
@@ -11324,7 +11328,7 @@ tr:first-child {
 }
 
 .rts-sponsors-section2 {
-  background-image: url("../images/background/megabg.jpg");
+  background-image: url("../images/background/img_2.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   position: relative;
