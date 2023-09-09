@@ -9689,11 +9689,7 @@ tr:first-child {
 }
 
 .inner-page-banner {
-<<<<<<< HEAD
   background-image: url("../images/banner/pqhead.JPG");
-=======
-  background-image: url("../images/banner/IMG_3774.JPG");
->>>>>>> 3a30a43a6c76c4245e58be15c7f8381ca4df17ee
   background-size: cover;
   background-position: bottom;
   padding-top: 260px;
