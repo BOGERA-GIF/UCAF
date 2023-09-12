@@ -22160,6 +22160,10 @@ tr:first-child {
   position: relative;
 }
 
+.card-body {
+  height: 300px;
+}
+
 .login-area .container .login-form .card .card-body .form .password-input .show-password-input {
   position: absolute;
   right: 10px;
