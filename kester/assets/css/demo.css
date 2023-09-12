@@ -1,0 +1,23 @@
+/* Set initial styles for the image container */
+.image-container {
+    /* overflow: hidden;
+    width: 300px;
+    /* Adjust the width and height to your preferences */
+    height: 200px;
+}
+
+*/
+
+/* Set styles for the image */
+.image-container img {
+    width: 100%;
+    height: auto;
+    transition: transform 0.3s ease;
+    /* Add a smooth transition effect */
+}
+
+/* Apply zoom effect on hover */
+.image-container:hover img {
+    transform: scale(1.2);
+    /* Adjust the scale factor for the desired zoom level */
+}
